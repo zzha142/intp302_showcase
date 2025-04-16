@@ -3,7 +3,7 @@ import os
 
 from openai import OpenAI
 from dotenv import load_dotenv
-load_dotenv(dotenv_path="C:\\zzqy\\college_simulator\\.env")
+load_dotenv(dotenv_path=".env")
 import os
 
 import time
